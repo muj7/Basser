@@ -1,0 +1,10 @@
+Flask=2.2.3
+pymongo[srv]
+Flask-PyMongo
+urllib
+werkzeug
+bson
+tensorflow
+opnecv-python
+numpy
+
